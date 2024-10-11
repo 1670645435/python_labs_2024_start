@@ -1,0 +1,280 @@
+{
+    "humidity": {
+        "data": [
+            {
+                "place": "Hong Kong Observatory",
+                "unit": "percent",
+                "value": 70
+            }
+        ],
+        "recordTime": "2024-10-12T06:00:00+08:00"
+    },
+    "icon": [
+        51
+    ],
+    "iconUpdateTime": "2024-10-12T06:00:00+08:00",
+    "mintempFrom00To09": "",
+    "rainfall": {
+        "data": [
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Central & Western District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Eastern District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Kwai Tsing",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Islands District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "North District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Sai Kung",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Sha Tin",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Southern District",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Tai Po",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Tsuen Wan",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Tuen Mun",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Wan Chai",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Yuen Long",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Yau Tsim Mong",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Sham Shui Po",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Kowloon City",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Wong Tai Sin",
+                "unit": "mm"
+            },
+            {
+                "main": "FALSE",
+                "max": 0,
+                "place": "Kwun Tong",
+                "unit": "mm"
+            }
+        ],
+        "endTime": "2024-10-12T05:45:00+08:00",
+        "startTime": "2024-10-12T04:45:00+08:00"
+    },
+    "rainfallFrom00To12": "",
+    "rainfallJanuaryToLastMonth": "",
+    "rainfallLastMonth": "",
+    "tcmessage": "",
+    "temperature": {
+        "data": [
+            {
+                "place": "King's Park",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Hong Kong Observatory",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Wong Chuk Hang",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Ta Kwu Ling",
+                "unit": "C",
+                "value": 23
+            },
+            {
+                "place": "Lau Fau Shan",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Tai Po",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Sha Tin",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Tuen Mun",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Tseung Kwan O",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Sai Kung",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Cheung Chau",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Chek Lap Kok",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Tsing Yi",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Shek Kong",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Tsuen Wan Ho Koon",
+                "unit": "C",
+                "value": 23
+            },
+            {
+                "place": "Tsuen Wan Shing Mun Valley",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Hong Kong Park",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Shau Kei Wan",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Kowloon City",
+                "unit": "C",
+                "value": 24
+            },
+            {
+                "place": "Happy Valley",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Wong Tai Sin",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Stanley",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Kwun Tong",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Sham Shui Po",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Kai Tak Runway Park",
+                "unit": "C",
+                "value": 26
+            },
+            {
+                "place": "Yuen Long Park",
+                "unit": "C",
+                "value": 25
+            },
+            {
+                "place": "Tai Mei Tuk",
+                "unit": "C",
+                "value": 24
+            }
+        ],
+        "recordTime": "2024-10-12T06:00:00+08:00"
+    },
+    "updateTime": "2024-10-12T06:02:00+08:00",
+    "uvindex": "",
+    "warningMessage": [
+        "The Yellow Fire Danger Warning was issued at 6:00 a.m. and the fire risk is high."
+    ]
+}
